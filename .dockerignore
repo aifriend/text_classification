@@ -1,0 +1,8 @@
+.env
+.editorconfig
+.git
+.github
+.cache
+postman/*
+venv/*
+Dockerfile

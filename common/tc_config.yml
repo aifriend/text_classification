@@ -1,0 +1,8 @@
+logs_path: logs
+
+lstm:
+  name: lstm_multidoc_ct
+  epochs: 10
+  batch_size: 64
+  model_path: data_volume
+  dataset_size: 1000
